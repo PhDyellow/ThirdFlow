@@ -12,7 +12,6 @@ type: application/json
 		"disable-hfs": "yes"
     },
     "plugins": [
-    	"tiddlywiki/tiddlyweb"
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/codemirror",
         "tiddlywiki/highlight"
